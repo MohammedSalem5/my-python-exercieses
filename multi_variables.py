@@ -28,6 +28,22 @@
 #z="Awesome!!"
 #print(x + y + z)
 
+"""
 X=5
 Y="Mohammed"
 print(X,Y)
+
+"""
+
+
+
+
+#x="Awesome"
+def myfunc():
+  global x
+  x = "Fantastic"
+  
+
+myfunc()
+
+print("Python is " + x)
