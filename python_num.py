@@ -22,3 +22,4 @@ j = -87.7e100
 print(type(g))
 print(type(h))
 print(type(j))
+
